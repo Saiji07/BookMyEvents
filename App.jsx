@@ -220,12 +220,12 @@ function App() {
   
   const handleLoginClick = () =>{
     const sampleUserData = {
-      email: "ravalvyom17@gmail.com",
-      familyName: "Raval",
-      givenName: "Vyom",
+      email: "saijidesai07@gmail.com",
+      familyName: "Rabari",
+      givenName: "Saiji",
       googleId: "111154031364698337834",
       imageUrl: "https://lh3.googleusercontent.com/a/ACg8ocI9KVn2H86gqHZblVvETHkyxIOcYKj8ab1LhYt4cbq0fK3vWcal=s96-c",
-      name: "Vyom Raval"
+      name: "Saiji Rabari"
     };
     setUserData(sampleUserData);
   };
